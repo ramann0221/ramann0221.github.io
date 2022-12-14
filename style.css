@@ -6,7 +6,7 @@ body {
 
 
 .sidebar h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 350%;
   color: #d3d3da;
   display: block;
@@ -18,7 +18,7 @@ body {
 }
 
 .sidebar h2 {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 150%;
   color: #d3d3da;
   display: block;
@@ -30,7 +30,7 @@ body {
 }
 
 .sidebar h3{
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", Times, serif;
   color: #d3d3da;
   display: block;
   padding: 16px;
@@ -63,22 +63,22 @@ div.blurb{
 }
 
 .content h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .content h2 {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 
 .content p {
-  font-family: "Roboto", serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 130%;
   
 }
 
 .content li {
-  font-family: "Roboto", serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 130%;  
 }
 
@@ -97,7 +97,7 @@ div.blurb{
 }
 
 #footer p {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", Times, serif;
   text-align: center;
 }
 
@@ -129,7 +129,7 @@ div.content {
 
 /* Sidebar links */
 .sidebar a {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", Times, serif;
   display: block;
   color: #d3d3da;
   padding: 16px;
@@ -140,7 +140,7 @@ div.content {
 }
 
 #colophon a {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 100%;
   color: #d3d3da;
   display: block;
