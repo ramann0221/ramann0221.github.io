@@ -154,18 +154,18 @@ div.content {
 /* Active/current link */
 .sidebar a.active {
   background-color: #4dc3ff;
-  color: #d3d3da;
+  color: #ffffff;
 }
 
 /* Links on mouse-over */
 .sidebar a:hover:not(.active) {
   background-color: #4dc3ff;
-  color: #d3d3da;
+  color: #ffffff;
 }
 
 #colophon a:hover:not(.active) {
   background-color: #4dc3ff;
-  color: #d3d3da;
+  color: #ffffff;
 }
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
