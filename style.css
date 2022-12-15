@@ -8,7 +8,7 @@ body {
 .sidebar h1 {
   font-family: "Times New Roman", Times, serif;
   font-size: 350%;
-  color: #00b3b3;
+  color: #ffffff;
   display: block;
   padding: 16px;
   padding-top: 0;
@@ -20,7 +20,7 @@ body {
 .sidebar h2 {
   font-family: "Times New Roman", Times, serif;
   font-size: 150%;
-  color: #00b3b3;
+  color: #ffffff;
   display: block;
   padding: 16px;
   margin: 0;
@@ -31,7 +31,7 @@ body {
 
 .sidebar h3{
   font-family: "Times New Roman", Times, serif;
-  color: #00b3b3;
+  color: #ffffff;
   display: block;
   padding: 16px;
   margin: 0;
@@ -121,7 +121,7 @@ div.content {
   margin: 0;
   padding: 0;
   width: 350px;          /* <--- CHANGE US TOGETHER */
-  background-color: #0088cc;
+  background-color: #006699;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -159,12 +159,12 @@ div.content {
 
 /* Links on mouse-over */
 .sidebar a:hover:not(.active) {
-  background-color: #393751;
+  background-color: #4dc3ff;
   color: #d3d3da;
 }
 
 #colophon a:hover:not(.active) {
-  background-color: 262536;
+  background-color: #4dc3ff;
   color: #d3d3da;
 }
 
