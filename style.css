@@ -121,7 +121,7 @@ div.content {
   margin: 0;
   padding: 0;
   width: 350px;          /* <--- CHANGE US TOGETHER */
-  background-color: #262536;
+  background-color: #0088cc;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -131,7 +131,7 @@ div.content {
 .sidebar a {
   font-family: "Times New Roman", Times, serif;
   display: block;
-  color: #f9ecf9;
+  color:  #ffffff;
   padding: 16px;
   padding-right: 30px;
   text-decoration: none;
@@ -142,7 +142,7 @@ div.content {
 #colophon a {
   font-family: "Times New Roman", Times, serif;
   font-size: 100%;
-  color: #f9ecf9;
+  color: #ffffff;
   display: block;
   padding: 0px;
   padding-top: 0;
@@ -153,7 +153,7 @@ div.content {
 
 /* Active/current link */
 .sidebar a.active {
-  background-color: #4c4a6c;
+  background-color: #4dc3ff;
   color: #d3d3da;
 }
 
