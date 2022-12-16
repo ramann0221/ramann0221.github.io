@@ -152,7 +152,7 @@ div.content {
 }
 
 /* Active/current link */
-.sidebar a.active {
+.sidebar a:hover:not(.active) {
   background-color: #4dc3ff;
   color: #ffffff;
 }
