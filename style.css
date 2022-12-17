@@ -152,19 +152,19 @@ div.content {
 }
 
 /* Active/current link */
-.sidebar a.active {
+.sidebar a:hover:not(.active) {
   background-color: #006699;
   color: #ffffff;
 }
 
 /* Links on mouse-over */
 .sidebar a:hover:not(.active) {
-  background-color: #4dc3ff;
+  background-color: #006699;
   color: #ffffff;
 }
 
 #colophon a:hover:not(.active) {
-  background-color: #4dc3ff;
+  background-color: #006699;
   color: #ffffff;
 }
 
